@@ -6,6 +6,10 @@ Healthcare IT professional focused on medical imaging systems, healthcare intero
 
 I work across healthcare workflows connecting **HIS → RIS → PACS → AI**.
 
+My work focuses on connecting healthcare systems and making clinical data move reliably between hospitals, radiology departments, and medical applications. I am especially interested in healthcare interoperability, radiology workflows, API integration, and practical software testing.
+
+I use technologies such as **HL7, FHIR, DICOM, PACS, RIS, and Mirth Connect** to explore and build solutions for exchanging patient, order, imaging, and report data across healthcare systems.
+
 <p>
   <a href="https://www.linkedin.com/in/marwan-ayman-abdelati/"><img src="https://img.shields.io/badge/LinkedIn-Marwan%20Ayman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Marooo-Ayman10"><img src="https://img.shields.io/badge/GitHub-Marooo--Ayman10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
