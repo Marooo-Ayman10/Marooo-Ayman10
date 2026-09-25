@@ -27,7 +27,7 @@ I use technologies such as **HL7, FHIR, DICOM, PACS, RIS, and Mirth Connect** to
 ## Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cs,dotnet,cpp,java" alt="Development tools">
+  <img src="https://skillicons.dev/icons?i=python,js,java" alt="Development tools">
 </p>
 
 ## Databases
