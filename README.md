@@ -38,7 +38,8 @@ I work across healthcare workflows connecting **HIS → RIS → PACS → AI**.
 ## Tools & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,docker,git,github,windows,linux" alt="Tools and infrastructure">
+  <img src="https://skillicons.dev/icons?i=postman,git,github,windows" alt="Tools and infrastructure">
+  <img src="https://img.shields.io/badge/Mirth%20Connect-Integration-FF6F00?style=for-the-badge" alt="Mirth Connect">
   <img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="IIS">
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware">
 </p>
